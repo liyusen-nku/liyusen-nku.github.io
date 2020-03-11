@@ -59,15 +59,15 @@ Programme Committee for IEEE SMC 2014, 2015, 2016 Reviewer for TPDS, TMM, TCC, T
 
 ---
 ### Selected Publications
-**Yusen Li**， Xueyan Tang，Wentong Cai， Jiancong Tong, Xiaoguang Liu, Gang Wang：Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
+·**Yusen Li**， Xueyan Tang，Wentong Cai， Jiancong Tong, Xiaoguang Liu, Gang Wang：Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
   
-**Yusen Li**, Haoyuan Liu, Xiwei Wang, Lingjun Pu, Trent Marbach, Shanjiang Tang, Gang Wang and Xiaoguang Liu，Themis: Efficient and Adaptive Resource Partitioning for Reducing Response Delay in Cloud Gaming ACM Multimedia 2019: 491-499,2019.  
+·**Yusen Li**, Haoyuan Liu, Xiwei Wang, Lingjun Pu, Trent Marbach, Shanjiang Tang, Gang Wang and Xiaoguang Liu，Themis: Efficient and Adaptive Resource Partitioning for Reducing Response Delay in Cloud Gaming ACM Multimedia 2019: 491-499,2019.  
 
 ·**Li, Yusen**, Shan Chuxu, Chen Ruobing, Tang Xueyan, Cai Wentong, Tang Shanjiang, Wang Gang, Liu Xiaoguang, Gong Xiaoli, and Zhang Ying. Gaugur: Quantifying performance interference of colocated games for improving resource utilization in cloud gaming. ACM HPDC, 2019.
 
-Liang Lv, Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Wendong Wang, Minghui Li, Xuan Cao, Qingqing Liang, Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers. IEEE Journal on Selected Areas in Communications 37(3): 540-555, 2019.
+·Liang Lv, Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Wendong Wang, Minghui Li, Xuan Cao, Qingqing Liang, Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers. IEEE Journal on Selected Areas in Communications 37(3): 540-555, 2019.
 
-Huihui Zou, Shanjiang Tang, Ce Yu, Hao Fu,**Yusen Li**, Wenjie Tang:ASW: Accelerating Smith-Waterman Algorithm on Coupled CPU-GPU Architecture. International Journal of Parallel Programming 47(3): 388-402, 2019.  
+·Huihui Zou, Shanjiang Tang, Ce Yu, Hao Fu,**Yusen Li**, Wenjie Tang:ASW: Accelerating Smith-Waterman Algorithm on Coupled CPU-GPU Architecture. International Journal of Parallel Programming 47(3): 388-402, 2019.  
 
 ·Xinyu Liu, Zhaohua Zhang, Rebecca Stones, **Li, Yusen**, Gang Wang, and Xiaoguang Liu. A hybrid bitfunnel and partitioned elias-fano inverted index. The Web Conference (WWW), 2019.
 
