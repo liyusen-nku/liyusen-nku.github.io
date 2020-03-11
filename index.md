@@ -18,10 +18,11 @@
 </table>
 </div>
 
-
+---
 ### Research Interests
 Distributed interactive applications, parallel and distributed systems, cloud computing
- 
+
+---
 ### Education
 #### 2008.08–2014.01 Ph.D. in Computer Engineering
 Nanyang Technological University, Singapore.
@@ -34,24 +35,29 @@ Nankai University, Tianjin, China.
 #### 2001.09–2005.06 B.E. in Computer Science
 Nankai University, Tianjin, China.
 
+---
 ### Employment
 **2016.03–　　　　　　 Associate Professor**  
 School of Computer Science and Information Security, Nankai University, China  
 **2013.02–2016.02　　　Research Fellow**  
 Parallel and Distributed Computing Centre, Nanyang Technological University, Singapore
 
+---
 ### Teaching and Mentoring
 **2016–2018**　　　　 Mentored three master students  
 **Spring 2017, 2018**　 Teaching, Data Structure, Nankai University  
 **Fall 2016, 2017** 　　 Teaching, The Programming Language C++, Nankai University  
 
+---
 ### Honors and Awards
 **2016** 　Thousand Youth Talent Plan of Tianjin, 2016  
 **2006** 　Microsoft Research Asia "Stars of Tomorrow"
 
+---
 ### Service
 Programme Committee for IEEE SMC 2014, 2015, 2016 Reviewer for TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT
 
+---
 ### Selected Publications
 **Yusen Li**， Xueyan Tang，Wentong Cai， Jiancong Tong, Xiaoguang Liu, Gang Wang：Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
   
