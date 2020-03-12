@@ -24,12 +24,9 @@ Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Co
 
 ---
 ### Education
-#### 2008.08–2014.01 Ph.D. in Computer Engineering
-Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
-#### 2005.09–2008.06 M.E. in Computer Science
-Nankai University, Tianjin, China.
-#### 2001.09–2005.06 B.E. in Computer Science
-Nankai University, Tianjin, China.
+#### 2008.08–2014.01 Ph.D. in Computer Engineering, Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
+#### 2005.09–2008.06 M.E. in Computer Science, Nankai University, Tianjin, China.
+#### 2001.09–2005.06 B.E. in Computer Science, Nankai University, Tianjin, China.
 
 ---
 ### Employment
@@ -49,9 +46,7 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 
 ---
 ### Service
-Programme Committee for IEEE SMC 2014, 2015, 2016, ISPA 2019
-
-Reviewer for TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT
+TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT
 
 ---
 ### Selected Publications
