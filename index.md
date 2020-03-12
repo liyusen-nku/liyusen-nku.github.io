@@ -25,10 +25,7 @@ Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Co
 ---
 ### Education
 #### 2008.08–2014.01 Ph.D. in Computer Engineering
-Nanyang Technological University, Singapore.
-Thesis: Consistency-ware scheduling and load balancing in multi-server distributed
-virtual environments
-Advisor: Professor Wentong Cai
+Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
 #### 2005.09–2008.06 M.E. in Computer Science
 Nankai University, Tianjin, China.
 #### 2001.09–2005.06 B.E. in Computer Science
