@@ -20,25 +20,28 @@
 
 ---
 ### Research Interests
-Resource Management In Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Computer Systems
+Resource Management in Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Computer Systems
 
 ---
 ### Education
-### 2008.08–2014.01 Ph.D. in Computer Engineering
+#### 2008.08–2014.01 Ph.D. in Computer Engineering
 Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
-### 2005.09–2008.06 M.E. in Computer Science
+#### 2005.09–2008.06 M.E. in Computer Science
 Nankai University, Tianjin, China.
-### 2001.09–2005.06 B.E. in Computer Science
+#### 2001.09–2005.06 B.E. in Computer Science
 Nankai University, Tianjin, China.
 
 ---
 ### Working Experiences
 **2016.03–Present　　　Associate Professor**  
 School of Computer Science, Nankai University, China
-**2019.07–2019.08 　　 Visiting Scholar**  
+
+**2019.07–2019.08　　　Visiting Scholar**  
 SAFARI, ETH Zurich, Switzerland 
-**2018.07–2018.08 　　 Visiting Scholar**  
+
+**2018.07–2018.08　　　Visiting Scholar**  
 PDSL, Nanyang Technological University, Singapore 
+
 **2013.02–2016.02　　　Research Fellow**  
 Parallel and Distributed Computing Centre, Nanyang Technological University, Singapore
 
@@ -49,47 +52,47 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 
 ---
 ### Honors and Awards
-**2016** 　Thousand Youth Talent Plan of Tianjin, 2016 
+**2016** 　Thousand Youth Talent Plan of Tianjin
 
 ---
 ### Service
-TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT
+TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT etc
 
 ---
 ### Selected Publications
 ·Shanjing Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li: A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering, to appear.  
 
-·**Yusen Li**， Xueyan Tang，Wentong Cai， Jiancong Tong, Xiaoguang Liu, Gang Wang：Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
+·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang：Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
   
 ·**Yusen Li**, Haoyuan Liu, Xiwei Wang, Lingjun Pu, Trent Marbach, Shanjiang Tang, Gang Wang and Xiaoguang Liu，Themis: Efficient and Adaptive Resource Partitioning for Reducing Response Delay in Cloud Gaming ACM Multimedia 2019: 491-499,2019.  
 
-·**Li, Yusen**, Shan Chuxu, Chen Ruobing, Tang Xueyan, Cai Wentong, Tang Shanjiang, Wang Gang, Liu Xiaoguang, Gong Xiaoli, and Zhang Ying. Gaugur: Quantifying performance interference of colocated games for improving resource utilization in cloud gaming. ACM HPDC, 2019.
+·**Yusen Li**, Chuxu Shan, Ruobing Chen, Xueyan Tang, Wentong Cai, Shanjiang Tang, Gang Wang, Xiaoguang Liu, Xiaoli Gong and Ying Zhang. Gaugur: Quantifying performance interference of colocated games for improving resource utilization in cloud gaming. ACM HPDC, 2019.
 
 ·Liang Lv, Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Wendong Wang, Minghui Li, Xuan Cao, Qingqing Liang, Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers. IEEE Journal on Selected Areas in Communications 37(3): 540-555, 2019.
 
-·Huihui Zou, Shanjiang Tang, Ce Yu, Hao Fu,**Yusen Li**, Wenjie Tang:ASW: Accelerating Smith-Waterman Algorithm on Coupled CPU-GPU Architecture. International Journal of Parallel Programming 47(3): 388-402, 2019.  
+·Huihui Zou, Shanjiang Tang, Ce Yu, Hao Fu, **Yusen Li**, Wenjie Tang:ASW: Accelerating Smith-Waterman Algorithm on Coupled CPU-GPU Architecture. International Journal of Parallel Programming 47(3): 388-402, 2019.  
 
-·Xinyu Liu, Zhaohua Zhang, Rebecca Stones, **Li, Yusen**, Gang Wang, and Xiaoguang Liu. A hybrid bitfunnel and partitioned elias-fano inverted index. The Web Conference (WWW), 2019.
+·Xinyu Liu, Zhaohua Zhang, Rebecca Stones, **Yusen Li**, Gang Wang, and Xiaoguang Liu. A hybrid bitfunnel and partitioned elias-fano inverted index. The Web Conference (WWW), 2019.
 
-·**Li, Yusen**, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, and Gang etc Wang. Index shard replication strategies for improving resource utilization in large scale search engines. International Conference on Parallel Processing (ICPP), 2018.
+·**Yusen Li**, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, and Gang etc Wang. Index shard replication strategies for improving resource utilization in large scale search engines. International Conference on Parallel Processing (ICPP), 2018.
 
-·**Li, Yusen**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. Cost-efficient server provisioning for cloud gaming. ACM Transactions on Multimedia Computing, Communications, and Applications, 2018.
+·**Yusen Li**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. Cost-efficient server provisioning for cloud gaming. ACM Transactions on Multimedia Computing, Communications, and Applications, 2018.
 
-·Yunhua Deng, **Li, Yusen**, Ronald Seet, Xueyan Tang, and Wentong Cai. The server allocation problem for session-based multiplayer cloud gaming. IEEE Transactions on Multimedia, 2018.
+·Yunhua Deng, **Yusen Li**, Ronald Seet, Xueyan Tang, and Wentong Cai. The server allocation problem for session-based multiplayer cloud gaming. IEEE Transactions on Multimedia, 2018.
 
-·Runtian Ren, Xueyan Tang, **Li, Yusen**, and Wentong Cai. Competitiveness of dynamic bin packing for online cloud server allocation. IEEE/ACM Transactions on Networking, 25(99):1–8, 2017.
+·Runtian Ren, Xueyan Tang, **Yusen Li**, and Wentong Cai. Competitiveness of dynamic bin packing for online cloud server allocation. IEEE/ACM Transactions on Networking, 25(99):1–8, 2017.
 
-·**Li, Yusen**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. On server provisioning for cloud gaming. In Proceedings of the 25rd ACM International Conference on Multimedia (ACM MM 2017), pages 492–500, 2017.
+·**Yusen Li**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. On server provisioning for cloud gaming. In Proceedings of the 25rd ACM International Conference on Multimedia (ACM MM 2017), pages 492–500, 2017.
 
-·Yuchao Zhang, **Li, Yusen**, Ke Xu, Dan Wang, Minghui Li, Xuan Cao, and Qingqing Liang. A communication-aware container re-distribution approach for high performance vnfs. In IEEE International Conference on Distributed Computing Systems (ICDCS), pages 1555–1564, 2017.
+·Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Minghui Li, Xuan Cao, and Qingqing Liang. A communication-aware container re-distribution approach for high performance vnfs. In IEEE International Conference on Distributed Computing Systems (ICDCS), pages 1555–1564, 2017.
 
-·Yunhua Deng, **Li, Yusen**, Xueyan Tang, and Wentong Cai. Server allocation for multiplayer cloud gaming. Proceedings of the 24rd ACM International Conference on Multimedia (ACM MM 2016), 2016.
+·Yunhua Deng, **Yusen Li**, Xueyan Tang, and Wentong Cai. Server allocation for multiplayer cloud gaming. Proceedings of the 24rd ACM International Conference on Multimedia (ACM MM 2016), 2016.
 
 ·**Yusen Li**, Xueyan Tang, and Wentong Cai. Dynamic bin packing for ondemand cloud resource allocation. Transactions on Parallel and Distributed Systems (TPDS), 27(1):157, 2016.
 
-·Xueyan Tang, **Li, Yusen**, Runtian Ren, and Wentong Cai. On first fit bin packing for online cloud server allocation. 31st IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS 2016), 2016.
+·Xueyan Tang, **Yusen Li**, Runtian Ren, and Wentong Cai. On first fit bin packing for online cloud server allocation. 31st IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS 2016), 2016.
 
-·**Li, Yusen**, Yunhua Deng, Ronald Seet, Xueyan Tang, and Wentong Cai. Master: Multi-platform application streaming toolkits for elastic resources. Proceedings of the 23rd ACM International Conference on Multimedia (ACM MM 2015), pages 805–806, 2015.
+·**Yusen Li**, Yunhua Deng, Ronald Seet, Xueyan Tang, and Wentong Cai. Master: Multi-platform application streaming toolkits for elastic resources. Proceedings of the 23rd ACM International Conference on Multimedia (ACM MM 2015), pages 805–806, 2015.
 
 ·**Yusen Li**, Xueyan Tang, and Wentong Cai. Play request dispatching for efficient virtual machine usage in cloud gaming. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 25(12):2052, 2015.
 
