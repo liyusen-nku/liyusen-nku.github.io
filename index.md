@@ -20,18 +20,25 @@
 
 ---
 ### Research Interests
-Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Algorithm Design and Analysis
+Resource Management In Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Computer Systems
 
 ---
 ### Education
-#### 2008.08–2014.01 Ph.D. in Computer Engineering, Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
-#### 2005.09–2008.06 M.E. in Computer Science, Nankai University, Tianjin, China.
-#### 2001.09–2005.06 B.E. in Computer Science, Nankai University, Tianjin, China.
+#### 2008.08–2014.01 Ph.D. in Computer Engineering
+Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
+#### 2005.09–2008.06 M.E. in Computer Science
+Nankai University, Tianjin, China.
+#### 2001.09–2005.06 B.E. in Computer Science
+Nankai University, Tianjin, China.
 
 ---
-### Employment
-**2016.03–　　　　　　 Associate Professor**  
-School of Computer Science, Nankai University, China  
+### Working Experiences
+**2016.03–Present　　　Associate Professor**  
+School of Computer Science, Nankai University, China
+**2019.07–2019.08 　　 Visiting Scholar**  
+SAFARI, ETH Zurich, Switzerland 
+**2018.07–2018.08 　　 Visiting Scholar**  
+PDSL, Nanyang Technological University, Singapore 
 **2013.02–2016.02　　　Research Fellow**  
 Parallel and Distributed Computing Centre, Nanyang Technological University, Singapore
 
