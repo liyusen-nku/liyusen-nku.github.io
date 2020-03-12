@@ -50,6 +50,7 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 ---
 ### Service
 Programme Committee for IEEE SMC 2014, 2015, 2016, ISPA 2019
+
 Reviewer for TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT
 
 ---
