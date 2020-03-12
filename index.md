@@ -24,11 +24,11 @@ Resource Management In Distributed Interactive Applications, Parallel and Distri
 
 ---
 ### Education
-#### 2008.08–2014.01 Ph.D. in Computer Engineering
+### 2008.08–2014.01 Ph.D. in Computer Engineering
 Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
-#### 2005.09–2008.06 M.E. in Computer Science
+### 2005.09–2008.06 M.E. in Computer Science
 Nankai University, Tianjin, China.
-#### 2001.09–2005.06 B.E. in Computer Science
+### 2001.09–2005.06 B.E. in Computer Science
 Nankai University, Tianjin, China.
 
 ---
