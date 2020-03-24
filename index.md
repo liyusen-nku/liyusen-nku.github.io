@@ -51,10 +51,6 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 **Fall 2017, 2018, 2019** 　　 Teaching, The Programming Language C++, Nankai University  
 
 ---
-### Honors and Awards
-**2016** 　Thousand Youth Talent Plan of Tianjin
-
----
 ### Service
 TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT etc
 
