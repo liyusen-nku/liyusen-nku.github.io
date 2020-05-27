@@ -26,9 +26,7 @@ Resource Management in Distributed Interactive Applications, Parallel and Distri
 ### Education
 #### 2008.08–2014.01 Ph.D. in Computer Engineering
 Nanyang Technological University, Singapore. Advisor: Professor Wentong Cai
-#### 2005.09–2008.06 M.E. in Computer Science
-Nankai University, Tianjin, China.
-#### 2001.09–2005.06 B.E. in Computer Science
+#### 2001.09–2008.06 B.E & M.E. in Computer Science
 Nankai University, Tianjin, China.
 
 ---
@@ -38,9 +36,6 @@ School of Computer Science, Nankai University, China
 
 **2019.07–2019.08　　　Visiting Scholar**  
 SAFARI, ETH Zurich, Switzerland 
-
-**2018.07–2018.08　　　Visiting Scholar**  
-PDSL, Nanyang Technological University, Singapore 
 
 **2013.02–2016.02　　　Research Fellow**  
 Parallel and Distributed Computing Centre, Nanyang Technological University, Singapore
@@ -56,6 +51,12 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+·Kaiyue Duan, **Yusen Li**，Trent Marbach, Gang Wang, Xiaoguang Liu. Improving Load Balance via Resource Exchange in Large-Scale Search Engines. 49th International Conference on Parallel Processing (ICPP) 2020.  
+
+·Iryanto Jaya, Wentong Cai, **Yusen Li**. Rendering Server Allocation for MMORPG Players in Cloud Gaming. IEEE Transactions on Knowledge and Data Engineering, 49th International Conference on Parallel Processing (ICPP) 2020.  
+
+·Shanjing Tang, Qifei Chai, Ce Yu, **Yusen Li**，Chao Suni. Balancing Fairness and Efficiency for Cache Sharing in Semi-external Memory System, 49th International Conference on Parallel Processing (ICPP) 2020. 
+
 ·Shanjing Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering, to appear.  
 
 ·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang. Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
