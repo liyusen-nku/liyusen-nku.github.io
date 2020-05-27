@@ -42,8 +42,8 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 
 ---
 ### Teaching
-**Spring 2017, 2018, 2019, 2020**　 Teaching, Data Structure, Nankai University  
-**Fall 2017, 2018, 2019** 　　 Teaching, The Programming Language C++, Nankai University  
+**Spring 2017, 2018, 2019, 2020**　 Data Structure, Nankai University  
+**Fall 2017, 2018, 2019** 　　 The Programming Language C++, Nankai University  
 
 ---
 ### Service
