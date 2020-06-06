@@ -53,7 +53,7 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 ### Selected Publications
 ·Kaiyue Duan, **Yusen Li**，Trent Marbach, Gang Wang, Xiaoguang Liu. Improving Load Balance via Resource Exchange in Large-Scale Search Engines. 49th International Conference on Parallel Processing (ICPP) 2020.  
 
-·Iryanto Jaya, Wentong Cai, **Yusen Li**. Rendering Server Allocation for MMORPG Players in Cloud Gaming. IEEE Transactions on Knowledge and Data Engineering, 49th International Conference on Parallel Processing (ICPP) 2020.  
+·Iryanto Jaya, Wentong Cai, **Yusen Li**. Rendering Server Allocation for MMORPG Players in Cloud Gaming. 49th International Conference on Parallel Processing (ICPP) 2020.  
 
 ·Shanjiang Tang, Qifei Chai, Ce Yu, **Yusen Li**，Chao Sun. Balancing Fairness and Efficiency for Cache Sharing in Semi-external Memory System, 49th International Conference on Parallel Processing (ICPP) 2020. 
 
