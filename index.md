@@ -51,13 +51,15 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+·Xinyu Liu, Yu Pan, **Yusen Li**，Gang Wang, Xiaoguang Liu. An NVM SSD-Optimized Query Processing Framework. 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020.
+
 ·Kaiyue Duan, **Yusen Li**，Trent Marbach, Gang Wang, Xiaoguang Liu. Improving Load Balance via Resource Exchange in Large-Scale Search Engines. 49th International Conference on Parallel Processing (ICPP) 2020.  
 
 ·Iryanto Jaya, Wentong Cai, **Yusen Li**. Rendering Server Allocation for MMORPG Players in Cloud Gaming. 49th International Conference on Parallel Processing (ICPP) 2020.  
 
 ·Shanjiang Tang, Qifei Chai, Ce Yu, **Yusen Li**，Chao Sun. Balancing Fairness and Efficiency for Cache Sharing in Semi-external Memory System, 49th International Conference on Parallel Processing (ICPP) 2020. 
 
-·Shanjiang Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering, to appear.  
+·Shanjiang Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering, 2020.  
 
 ·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang. Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
   
