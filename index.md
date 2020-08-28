@@ -51,7 +51,7 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
-Shanjiang Tang, Ce Yu, Yusen Li. Fairness-Efficiency Scheduling for Cloud Computing with Soft Fairness Guarantees. IEEE Transactions on Cloud Computing (TCC), 2020. 
+Shanjiang Tang, Ce Yu, **Yusen Li**. Fairness-Efficiency Scheduling for Cloud Computing with Soft Fairness Guarantees. IEEE Transactions on Cloud Computing (TCC), 2020. 
 
 ·Ruobing Chen, Jinping Wu, Haosen Shi, **Yusen Li**，Haiyan Yin, Shanjiang Tang, Gang Wang, Xiaoguang Liu. Deep Learning Assisted Resource Partitioning for Improving Performance on Commodity Servers. International Conference on Parallel Architectures and Compilation Techniques (PACT 2020).
 
