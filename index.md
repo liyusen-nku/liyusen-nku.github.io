@@ -51,6 +51,10 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+Shanjiang Tang, Ce Yu, Yusen Li. Fairness-Efficiency Scheduling for Cloud Computing with Soft Fairness Guarantees. IEEE Transactions on Cloud Computing (TCC), 2020. 
+
+·Ruobing Chen, Jinping Wu, Haosen Shi, **Yusen Li**，Haiyan Yin, Shanjiang Tang, Gang Wang, Xiaoguang Liu. Deep Learning Assisted Resource Partitioning for Improving Performance on Commodity Servers. International Conference on Parallel Architectures and Compilation Techniques (PACT 2020).
+
 ·Xinyu Liu, Yu Pan, **Yusen Li**，Gang Wang, Xiaoguang Liu. An NVM SSD-Optimized Query Processing Framework. 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020.
 
 ·Kaiyue Duan, **Yusen Li**，Trent Marbach, Gang Wang, Xiaoguang Liu. Improving Load Balance via Resource Exchange in Large-Scale Search Engines. 49th International Conference on Parallel Processing (ICPP) 2020.  
