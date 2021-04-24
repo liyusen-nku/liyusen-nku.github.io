@@ -7,7 +7,7 @@
       <img src="/pic.jpg" width="100%">
     </td>
     <td width="70%">
-      <h1>Yusen Li</h1>
+      <h1>Yusen Li （李雨森）</h1>
       <h2>Associate Professor</h2>
       <p><b>School of Computer Science, Nankai University</b></p>
       <p><b>38 Tongyan Road, Tianjin China 300350</b></p>
