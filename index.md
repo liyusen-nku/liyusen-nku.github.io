@@ -75,13 +75,13 @@ Shanjiang Tang, Ce Yu, **Yusen Li**. Fairness-Efficiency Scheduling for Cloud Co
 
 ·Shanjiang Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.  
 
-·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang. Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
+·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang. Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Transactions on Parallel and Distributed Systems (TPDS) 30(12): 2820-2835, 2019.  
   
 ·**Yusen Li**, Haoyuan Liu, Xiwei Wang, Lingjun Pu, Trent Marbach, Shanjiang Tang, Gang Wang and Xiaoguang Liu. Themis: Efficient and Adaptive Resource Partitioning for Reducing Response Delay in Cloud Gaming ACM Multimedia 2019: 491-499,2019.  
 
 ·**Yusen Li**, Chuxu Shan, Ruobing Chen, Xueyan Tang, Wentong Cai, Shanjiang Tang, Gang Wang, Xiaoguang Liu, Xiaoli Gong and Ying Zhang. Gaugur: Quantifying performance interference of colocated games for improving resource utilization in cloud gaming. ACM HPDC, 2019.
 
-·Liang Lv, Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Wendong Wang, Minghui Li, Xuan Cao, Qingqing Liang. Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers. IEEE Journal on Selected Areas in Communications 37(3): 540-555, 2019.
+·Liang Lv, Yuchao Zhang, **Yusen Li**, Ke Xu, Dan Wang, Wendong Wang, Minghui Li, Xuan Cao, Qingqing Liang. Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers. IEEE Journal on Selected Areas in Communications (JSAC) 37(3): 540-555, 2019.
 
 ·Huihui Zou, Shanjiang Tang, Ce Yu, Hao Fu, **Yusen Li**, Wenjie Tang. ASW: Accelerating Smith-Waterman Algorithm on Coupled CPU-GPU Architecture. International Journal of Parallel Programming 47(3): 388-402, 2019.  
 
@@ -89,11 +89,11 @@ Shanjiang Tang, Ce Yu, **Yusen Li**. Fairness-Efficiency Scheduling for Cloud Co
 
 ·**Yusen Li**, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, and Gang etc Wang. Index shard replication strategies for improving resource utilization in large scale search engines. International Conference on Parallel Processing (ICPP), 2018.
 
-·**Yusen Li**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. Cost-efficient server provisioning for cloud gaming. ACM Transactions on Multimedia Computing, Communications, and Applications, 2018.
+·**Yusen Li**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. Cost-efficient server provisioning for cloud gaming. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2018.
 
-·Yunhua Deng, **Yusen Li**, Ronald Seet, Xueyan Tang, and Wentong Cai. The server allocation problem for session-based multiplayer cloud gaming. IEEE Transactions on Multimedia, 2018.
+·Yunhua Deng, **Yusen Li**, Ronald Seet, Xueyan Tang, and Wentong Cai. The server allocation problem for session-based multiplayer cloud gaming. IEEE Transactions on Multimedia (TMM), 2018.
 
-·Runtian Ren, Xueyan Tang, **Yusen Li**, and Wentong Cai. Competitiveness of dynamic bin packing for online cloud server allocation. IEEE/ACM Transactions on Networking, 25(99):1–8, 2017.
+·Runtian Ren, Xueyan Tang, **Yusen Li**, and Wentong Cai. Competitiveness of dynamic bin packing for online cloud server allocation. IEEE/ACM Transactions on Networking (TON), 25(99):1–8, 2017.
 
 ·**Yusen Li**, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, and Gang Wang. On server provisioning for cloud gaming. In Proceedings of the 25rd ACM International Conference on Multimedia (ACM MM 2017), pages 492–500, 2017.
 
