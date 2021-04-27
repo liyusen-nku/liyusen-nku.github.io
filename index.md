@@ -21,7 +21,7 @@
 ---
 ### Research Interests
 Resource Management in Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Computer Systems
-<font color="red">This is some text!</font>
+
 ### 课题组研究注重计算机系统和算法相结合，欢迎优秀的本科生加入课题组从事科研工作～
 
 ---
