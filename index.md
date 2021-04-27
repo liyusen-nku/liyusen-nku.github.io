@@ -51,6 +51,8 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+Lixiao Cui, Kewen He, **Yusen Li**, Peng Li, Jiachen Zhang, Gang Wang, Xiaoguang Liu. SwapKV: A Hotness Aware In-memory Key-Value Store for Hybrid Memory Systems. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. 
+
 Ruobing Chen, Jinping Wu, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. DRLPart: A Deep Reinforcement Learning Framework for Optimally Efficient and Robust Resource Partitioning on Commodity Servers. ACM HPDC 2021. 
 
 **Yusen Li**, Xiwei Wang, Haoyuan Liu, Lingjun Pu, Shanjiang Tang, Gang Wang, Xiaoguang Liu. Reinforcement Learning based Resource Partitioning for Improving Responsiveness in Cloud Gaming. IEEE Transactions on Computers (TC), 2021. 
@@ -71,7 +73,7 @@ Shanjiang Tang, Ce Yu, **Yusen Li**. Fairness-Efficiency Scheduling for Cloud Co
 
 ·Shanjiang Tang, Qifei Chai, Ce Yu, **Yusen Li**，Chao Sun. Balancing Fairness and Efficiency for Cache Sharing in Semi-external Memory System, 49th International Conference on Parallel Processing (ICPP) 2020. 
 
-·Shanjiang Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering, 2020.  
+·Shanjiang Tang, Bingsheng He, Ce Yu, **Yusen Li**，Kun Li. A Survey on Spark Ecosystem: Big Data Processing Infrastructure, Machine Learning, and Applications. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.  
 
 ·**Yusen Li**，Xueyan Tang，Wentong Cai，Jiancong Tong, Xiaoguang Liu, Gang Wang. Resource-Efficient Index Shard Replication in Large Scale Search Engines. IEEE Trans. Parallel Distrib. Syst. 30(12): 2820-2835, 2019.  
   
