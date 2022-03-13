@@ -22,7 +22,7 @@
 ### Research Interests
 Resource Management in Distributed Interactive Applications, Parallel and Distributed Systems, Cloud Computing, Computer Systems
 
-### 课题组研究注重计算机系统和算法相结合，欢迎优秀的本科生加入课题组从事科研工作～
+### 课题组研究注重计算机系统和算法相结合，欢迎优秀的本科生加入课题组从事科研工作
 
 ---
 ### Education
@@ -53,6 +53,14 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+Xinyu Liu, Yu Pan, **Yusen Li**, Gang Wang, Xiaoguang Liu. An NVM SSD-based High Performance Query Processing Framework for Search Engines. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
+
+Bingzheng Ma, Ziqiang Zhang, **Yusen Li**, Wentong Cai, Gang Wang, Xiaoguang Liu. SPIDER: An Effective, Efficient and Robust Load Scheduler for Real-time Split Frame Rendering. The 36th IEEE International Parallel &Distributed Processing Symposium (IPDPS), 2022. 
+
+Kaiyue Duan, **Yusen Li**, Gang Wang, Xiaoguang Liu. Improving Server Re-Consolidation for Datacenters via Resource Exchange and Load Adjustment. The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2022. 
+
+Kaiyue Duan, **Yusen Li**, Gang Wang, Xiaoguang Liu. Improving Load Balancing for Modern Data Centers through Resource Equivalence Classes. The 19th International Conference on Service-Oriented Computing (ICSOC), 2021. 
+
 Lixiao Cui, Kewen He, **Yusen Li**, Peng Li, Jiachen Zhang, Gang Wang, Xiaoguang Liu. SwapKV: A Hotness Aware In-memory Key-Value Store for Hybrid Memory Systems. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. 
 
 Ruobing Chen, Jinping Wu, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. DRLPart: A Deep Reinforcement Learning Framework for Optimally Efficient and Robust Resource Partitioning on Commodity Servers. ACM HPDC 2021. 
