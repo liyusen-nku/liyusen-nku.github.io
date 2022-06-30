@@ -53,6 +53,10 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+Iranto Jaya, **Yusen Li**, Wentong Cai. Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming. ACM Multimedia, 2022. 
+
+Tao Li, Yaozheng Fang, Ye Lu, Jinni Yang, Zhaolong Jiang, Zhiguang Wang, **Yusen Li**. SmartVM: A Smart Contract Virtual Machine for Fast on-Chain DNN Computations. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022. 
+
 Xinyu Liu, Yu Pan, **Yusen Li**, Gang Wang, Xiaoguang Liu. An NVM SSD-based High Performance Query Processing Framework for Search Engines. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
 Bingzheng Ma, Ziqiang Zhang, **Yusen Li**, Wentong Cai, Gang Wang, Xiaoguang Liu. SPIDER: An Effective, Efficient and Robust Load Scheduler for Real-time Split Frame Rendering. The 36th IEEE International Parallel &Distributed Processing Symposium (IPDPS), 2022. 
