@@ -7,7 +7,7 @@
       <img src="/pic.jpg" width="100%">
     </td>
     <td width="70%">
-      <h1>Yusen Li （李雨森）</h1>
+      <h1>Yusen Li</h1>
       <h2>Associate Professor</h2>
       <p><b>School of Computer Science, Nankai University</b></p>
       <p><b>38 Tongyan Road, Tianjin China 300350</b></p>
@@ -43,9 +43,9 @@ SAFARI, ETH Zurich, Switzerland
 Parallel and Distributed Computing Centre, Nanyang Technological University, Singapore
 
 ---
-### Teaching
-**Spring 2017, 2018, 2019, 2020**　 Data Structure, Nankai University  
-**Fall 2017, 2018, 2019** 　　 The Programming Language C++, Nankai University  
+### Teaching  
+**2022-present**　 Computer Architecture, School of Computer Science, Nankai University  
+**2020-present** 　The Programming Language C++, School of Computer Science, Nankai University  
 
 ---
 ### Service
@@ -53,6 +53,8 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
+Ruobing Chen, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-CriticalJobs on Commodity Computers. EuroSys, 2023. 
+
 Iranto Jaya, **Yusen Li**, Wentong Cai. Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming. ACM Multimedia, 2022. 
 
 Tao Li, Yaozheng Fang, Ye Lu, Jinni Yang, Zhaolong Jiang, Zhiguang Wang, **Yusen Li**. SmartVM: A Smart Contract Virtual Machine for Fast on-Chain DNN Computations. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022. 
