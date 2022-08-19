@@ -53,7 +53,7 @@ TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC
 
 ---
 ### Selected Publications
-Ruobing Chen, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-CriticalJobs on Commodity Computers. EuroSys, 2023. 
+Ruobing Chen, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers. EuroSys, 2023. 
 
 Iranto Jaya, **Yusen Li**, Wentong Cai. Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming. ACM Multimedia, 2022. 
 
