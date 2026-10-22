@@ -8,7 +8,7 @@
     </td>
     <td width="70%">
       <h1>Dr. Yusen Li</h1>
-      <h2>Associate Professor</h2>
+      <h2>Full Professor</h2>
       <p><b>School of Computer Science, Nankai University</b></p>
       <p><b>38 Tongyan Road, Tianjin China 300350</b></p>
       <p><b>Tel: (+86) 022-23504780</b></p>
@@ -49,10 +49,58 @@ Parallel and Distributed Computing Centre, Nanyang Technological University, Sin
 
 ---
 ### Service
-TC Members or Reviewers for IEEE SMC 2014, 2015, 2016, ISPA 2019, TPDS, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT etc
+Associate Editor for International Journal of Modeling, Simulation, and Scientific Computing
+TC Members or Reviewers for TPDS, TC, TACO, TON, TMM, TCC, Transactions on Cybernetics, JPDC, Neurocomputing, Journal of Computer Science, INFOCOM, IPDPS, PADS, DS-RT etc
 
 ---
 ### Selected Publications
+
+Zhongshu Cheng, **Yusen Li**, Xiaoguang Li, Gang Wang. GSlider: A Cloud Gaming Framework Enabling Fine-grained and Flexible Offloading, _IEEE TC_, 2026.
+
+Sitian Chen, Amelie Chi Zhou, **Yusen Li**, Min Si and Pavan Balaji. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization, _IEEE TCAD_, 2026.
+
+Lixiao Cui, Kedi Yang, **Yusen Li**, Gang Wang, Xiaoguang Liu. Enhancing the Performance of Learned Index on Processing-in-Memory Architecture. _ACM Transactions on Storage (TOS)_, 2026.
+
+Yixing Du, Qingyun Tang, Lixiao Cui, **Yusen Li**, Gang Wang, Xiaoguang Liu. PIM-Forge: Toward Autonomous PIM Kernel Synthesis through Constraint-Guided Hardware Exploration. _ICPP_, 2026.
+
+Lixiao Cui, Kedi Yang, Zhuoran Wang, Xinming Yuan, **Yusen Li**, Gang Wang, Xiaoguang Liu. PIM-Pai: Boosting the Performance of Index Structures with Minimal Effort on Processing-in-Memory Architecture. _ICPP_, 2026.
+
+Tiannuo Yang, Zebin Yao, Bowen Jin, Lixiao Cui, **Yusen Li**, Gang Wang, Xiaoguang Liu, Willie Neiswanger. Demystifying and Enhancing the Efficiency of Large Language Model Based Search Agents. _ICLR_, 2026.
+
+Sitian Chen, Chi Zhou, Yucheng Shi, **Yusen Li**, Xin Yao. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Real-World PIM Architecture. _SC_, 2025.
+
+Haonan Jiang, **Yusen Li**, Gang Wang, Xiaoguang Liu, Xuebo Zhang. Solving Extended Flexible Job Shop Scheduling Problems with Deep Reinforcement Learning. _ICPP_, 2025.
+
+Ziyue Xu, Yichen Li, Ranzhe Deng, Liping Yi, **Yusen Li**, Gang Wang, Xiaoguang. SampDedup: Sampling Prediction for Efficient Inline Data Deduplication on Non-volatile Memory. _ACM TACO_, 2025.
+
+Lixiao Cui, Kedi Yang, **Yusen Li**, Gang Wang, Xiaoguang. Towards Optimizing Learned Index for High Performance, Memory Efficiency and NUMA Awareness. _ACM TACO_, 2025.
+
+Lixiao Cui, Kedi Yang, **Yusen Li**, Gang Wang, Xiaoguang. PIMLex: A High-Performance Learned Index with Processing-in-Memory. _USENIX Conference on File and Storage Technologies (FAST)_, 2025.
+
+Wagnqi Peng, **Yusen Li**, Gang Wang, Xiaoguang. Lavender: An Efficient Resource Partitioning Framework for Large-Scale Job Colocation. _ACM Transactions on Architecture and Code Optimization_, 2024..
+
+Tiannuo Yang, Wen Hu, Wangqi Peng, **Yusen Li**, Jianguo Li, Gang Wang, Xiaoguang. VDTuner: Automated Performance Tuning for Vector Data Management Systems. _IEEE ICDE_, 2024.
+
+Yi Zhao, Liang Lv, **Yusen Li**, Meng Shen, Liehuang Zhu, Ke Xu. Rethinking and Optimizing Workload Redistribution in Large-scale Internet Data Centers. _IEEE/ACM IWQoS_, 2024.
+
+Sitian Chen, Haobin Tan, Amelie Chi Zhou, **Yusen Li** and Pavan Balaji. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. _DAC_, 2024.
+
+Amelie Chi Zhou, Rongzheng Huang, Zhoubin Ke, **Yusen Li**, Yi Wang, Rui Mao. Tackling Cold Start in Serverless Computing with Multi-Layer Container Reuse. _IEEE IPDPS_, 2024.
+
+Lixiao Cui, Yijing Luo, **Yusen Li**, Gang Wang, Xiaoguang Liu. When Learned Indexes Meet Persistent Memory: the Analysis and the Optimization. _IEEE Transactions on Knowledge and Data Engineering_, 2024.
+
+Tang Shanjiang, Zhou, Zhongyu, Gou Jiekai, Yu Ce, **Li Yusen**, Fu Hao, Sun Chao, Xiao Jian. Fairness-Efficiency Scheduling for Pay-as-you-go shared Caching systems with Long-term Fairness Guarantees. _IEEE Transactions on Services Computing_, 2023.
+
+Ruobing Chen, Wangqi Peng, **Li, Yusen**, Xiaoguang Liu, and Gang Wang. Orchid: An Online Learning based Resource Partitioning Framework for Job Colocation with Multiple Objectives. _IEEE Transactions on Computers_, 2023.
+
+Xinyu Liu, Zijing Wei, Wenqing Yu, Gang Wang, Xiaoguang Liu, **Yusen Li** and Shaozhi Liu. Khronos: A Real-Time Indexing Framework for Time Series Databases on Large-Scale Performance Monitoring Systems. _CIKM_, 2023.
+
+Lixiao Cui, Kedi Yang, **Li, Yusen**, Xiaoguang Liu, and Gang Wang. Difflex: A high-performance, memory-efficient and numa-aware learned index using differentiated management. _52nd International Conference on Parallel Processing_, 2023.
+
+Tiannuo Yang, Ruobing Chen, **Li, Yusen**, Xiaoguang Liu, and Gang Wang. Cotuner: A hierarchical learning framework for coordinately optimizing resource partitioning and parameter tuning. _52nd International Conference on Parallel Processing_, 2023.
+
+Ruobing Chen, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. Jointly Optimizing Job Assignment and Resource Partitioning for Improving System Throughput in Cloud Datacenters, _ACM Transactions on Architecture and Code Optimization_, 2023.
+
 Yan Wang, Tongtong Su, **Yusen Li**, Jiuwen Cao, Xiaoguang Liu, Gang Wang. DDistill-SR: Reparameterized Dynamic Distillation Network for Lightweight Image Super-Resolution. _IEEE Transactions on Multimedia_, 2023. 
 
 Ruobing Chen, Haosen Shi, **Yusen Li**, Xiaoguang Liu, Gang Wang. OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers. _EuroSys_, 2023. 
